@@ -1,0 +1,15 @@
+
+[
+    {
+        "id": "PM001",
+        "nama": "SISIL",
+        "jurusan": "Hukum",
+        "sudah_memilih": true
+    },
+    {
+        "id": "PM002",
+        "nama": "ABUN",
+        "jurusan": "Manajemen",
+        "sudah_memilih": false
+    }
+]
